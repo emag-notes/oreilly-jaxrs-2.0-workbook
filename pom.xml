@@ -42,5 +42,7 @@
   </build>
   <modules>
     <module>ex03_1</module>
+    <module>ex04_1</module>
+    <module>ex04_2</module>
   </modules>
 </project>
